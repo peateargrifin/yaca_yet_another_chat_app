@@ -41,7 +41,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCDa1IuTr91SzxycrWEqETEs2_4IfyLwpY',
+    apiKey: 'your key',
     appId: '1:25490776191:web:ad170d6bfbdf0c882e5f4a',
     messagingSenderId: '25490776191',
     projectId: 'yacachatapp',
@@ -51,7 +51,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAxwbE7EVDtXUP7WCrUUz68hyQdgDqg0eM',
+    apiKey: 'your key',
     appId: '1:25490776191:android:4214a8fe067ff98a2e5f4a',
     messagingSenderId: '25490776191',
     projectId: 'yacachatapp',
@@ -59,7 +59,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCU9tniCEFdi1O2pK2aOTeKuk3MfJ5v8_c',
+    apiKey: 'your key',
     appId: '1:25490776191:ios:76f3c22583860f5d2e5f4a',
     messagingSenderId: '25490776191',
     projectId: 'yacachatapp',
