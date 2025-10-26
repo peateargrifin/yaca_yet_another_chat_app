@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "25490776191",
+    "project_id": "yacachatapp",
+    "storage_bucket": "yacachatapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25490776191:android:4214a8fe067ff98a2e5f4a",
+        "android_client_info": {
+          "package_name": "com.example.yaca"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxwbE7EVDtXUP7WCrUUz68hyQdgDqg0eM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
