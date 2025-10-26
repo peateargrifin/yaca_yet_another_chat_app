@@ -101,10 +101,4 @@ class intro extends StatelessWidget {
   }
 }
 
-// Example usage in main.dart:
-// void main() {
-//   runApp(const MaterialApp(
-//     home: IntroPage(),
-//     debugShowCheckedModeBanner: false,
-//   ));
-// }
+

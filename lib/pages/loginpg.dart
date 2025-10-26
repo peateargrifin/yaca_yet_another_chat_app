@@ -18,7 +18,7 @@ class authpage extends StatelessWidget {
 
     showDialog(
       context: context,
-      //barrierDismissible: false, // Prevent dismissing by tapping outside
+
       builder: (context) {
         return Center(child: CircularProgressIndicator());
       },
@@ -398,26 +398,3 @@ class authpage extends StatelessWidget {
     );
   }
 }
-
-// Example usage in main.dart:
-// void main() {
-//   runApp(const MaterialApp(
-//     home: LoginPage(),
-//     debugShowCheckedModeBanner: false,
-//   ));
-// }
-
-// Note: Add these fonts to your pubspec.yaml:
-// fonts:
-//   - family: Poppins
-//     fonts:
-//       - asset: fonts/Poppins-Regular.ttf
-//       - asset: fonts/Poppins-Bold.ttf
-//         weight: 700
-//   - family: Nunito
-//     fonts:
-//       - asset: fonts/Nunito-Regular.ttf
-//       - asset: fonts/Nunito-SemiBold.ttf
-//         weight: 600
-//       - asset: fonts/Nunito-Bold.ttf
-//         weight: 700
