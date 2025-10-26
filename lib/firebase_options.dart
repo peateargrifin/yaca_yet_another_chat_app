@@ -68,7 +68,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyCU9tniCEFdi1O2pK2aOTeKuk3MfJ5v8_c',
+    apiKey: 'your key',
     appId: '1:25490776191:ios:76f3c22583860f5d2e5f4a',
     messagingSenderId: '25490776191',
     projectId: 'yacachatapp',
@@ -77,7 +77,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyCDa1IuTr91SzxycrWEqETEs2_4IfyLwpY',
+    apiKey: 'your key',
     appId: '1:25490776191:web:2cfcac6921c666062e5f4a',
     messagingSenderId: '25490776191',
     projectId: 'yacachatapp',
